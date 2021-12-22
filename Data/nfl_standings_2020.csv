@@ -1,0 +1,33 @@
+,Team,Wins,Losses,Ties,WinLossPerc,PointsFor,PointsAgainst,PointDifferential,Division,Conference
+0,Buffalo Bills,13,3,0,.813,501,375,126,AFC East,AFC
+1,Miami Dolphins,10,6,0,.625,404,338,66,AFC East,AFC
+2,New England Patriots,7,9,0,.438,326,353,-27,AFC East,AFC
+3,New York Jets,2,14,0,.125,243,457,-214,AFC East,AFC
+4,Pittsburgh Steelers,12,4,0,.750,416,312,104,AFC North,AFC
+5,Baltimore Ravens,11,5,0,.688,468,303,165,AFC North,AFC
+6,Cleveland Browns,11,5,0,.688,408,419,-11,AFC North,AFC
+7,Cincinnati Bengals,4,11,1,.281,311,424,-113,AFC North,AFC
+8,Tennessee Titans,11,5,0,.688,491,439,52,AFC South,AFC
+9,Indianapolis Colts,11,5,0,.688,451,362,89,AFC South,AFC
+10,Houston Texans,4,12,0,.250,384,464,-80,AFC South,AFC
+11,Jacksonville Jaguars,1,15,0,.063,306,492,-186,AFC South,AFC
+12,Kansas City Chiefs,14,2,0,.875,473,362,111,AFC West,AFC
+13,Las Vegas Raiders,8,8,0,.500,434,478,-44,AFC West,AFC
+14,Los Angeles Chargers,7,9,0,.438,384,426,-42,AFC West,AFC
+15,Denver Broncos,5,11,0,.313,323,446,-123,AFC West,AFC
+16,Washington Football Team,7,9,0,.438,335,329,6,NFC East,NFC
+17,New York Giants,6,10,0,.375,280,357,-77,NFC East,NFC
+18,Dallas Cowboys,6,10,0,.375,395,473,-78,NFC East,NFC
+19,Philadelphia Eagles,4,11,1,.281,334,418,-84,NFC East,NFC
+20,Green Bay Packers,13,3,0,.813,509,369,140,NFC North,NFC
+21,Chicago Bears,8,8,0,.500,372,370,2,NFC North,NFC
+22,Minnesota Vikings,7,9,0,.438,430,475,-45,NFC North,NFC
+23,Detroit Lions,5,11,0,.313,377,519,-142,NFC North,NFC
+24,New Orleans Saints,12,4,0,.750,482,337,145,NFC South,NFC
+25,Tampa Bay Buccaneers,11,5,0,.688,492,355,137,NFC South,NFC
+26,Carolina Panthers,5,11,0,.313,350,402,-52,NFC South,NFC
+27,Atlanta Falcons,4,12,0,.250,396,414,-18,NFC South,NFC
+28,Seattle Seahawks,12,4,0,.750,459,371,88,NFC West,NFC
+29,Los Angeles Rams,10,6,0,.625,372,296,76,NFC West,NFC
+30,Arizona Cardinals,8,8,0,.500,410,367,43,NFC West,NFC
+31,San Francisco 49ers,6,10,0,.375,376,390,-14,NFC West,NFC
